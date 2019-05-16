@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnisysFinances</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="cd_weeks_list">Weeks list</string>
+
+    <string name="label_weeks">Weeks</string>
+</resources>

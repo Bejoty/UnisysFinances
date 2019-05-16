@@ -1,0 +1,5692 @@
+{
+  "entries": [
+    {
+      "date": "7/14/2016",
+      "data": {
+        "tech": 7.9,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/15/2016",
+      "data": {
+        "tech": 8.2,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/18/2016",
+      "data": {
+        "tech": 6,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/19/2016",
+      "data": {
+        "tech": 7.2,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/20/2016",
+      "data": {
+        "tech": 8.1,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/21/2016",
+      "data": {
+        "tech": 8.1,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 6.57
+      }
+    },
+    {
+      "date": "7/22/2016",
+      "data": {
+        "tech": 5.9,
+        "travel": 0.6,
+        "distance": 8,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "7/25/2016",
+      "data": {
+        "tech": 4.3,
+        "travel": 1.4,
+        "distance": 21,
+        "expenses": 7
+      }
+    },
+    {
+      "date": "7/26/2016",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.7,
+        "distance": 84,
+        "expenses": 8.55
+      }
+    },
+    {
+      "date": "7/27/2016",
+      "data": {
+        "tech": 4.2,
+        "travel": 4.8,
+        "distance": 65,
+        "expenses": 49.9
+      }
+    },
+    {
+      "date": "7/28/2016",
+      "data": {
+        "tech": 3.3,
+        "travel": 0.9,
+        "distance": 13,
+        "expenses": 2.25
+      }
+    },
+    {
+      "date": "7/29/2016",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.3,
+        "distance": 54,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/1/2016",
+      "data": {
+        "tech": 2.7,
+        "travel": 0.6,
+        "distance": 10,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "8/2/2016",
+      "data": {
+        "tech": 3.3,
+        "travel": 1.3,
+        "distance": 16,
+        "expenses": 16.88
+      }
+    },
+    {
+      "date": "8/3/2016",
+      "data": {
+        "tech": 3.2,
+        "travel": 1.8,
+        "distance": 73,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/4/2016",
+      "data": {
+        "tech": 3.1,
+        "travel": 2.6,
+        "distance": 56,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "8/5/2016",
+      "data": {
+        "tech": 3.8,
+        "travel": 1.8,
+        "distance": 18,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "8/8/2016",
+      "data": {
+        "tech": 4.9,
+        "travel": 2.7,
+        "distance": 37,
+        "expenses": 1.75
+      }
+    },
+    {
+      "date": "8/9/2016",
+      "data": {
+        "tech": 5.1,
+        "travel": 0.9,
+        "distance": 12,
+        "expenses": 18.5
+      }
+    },
+    {
+      "date": "8/10/2016",
+      "data": {
+        "tech": 3.4,
+        "travel": 1.3,
+        "distance": 14,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "8/11/2016",
+      "data": {
+        "tech": 3.5,
+        "travel": 0.8,
+        "distance": 12,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "8/12/2016",
+      "data": {
+        "tech": 5.2,
+        "travel": 3,
+        "distance": 61,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/15/2016",
+      "data": {
+        "tech": 6.4,
+        "travel": 1.9,
+        "distance": 27,
+        "expenses": 23.99
+      }
+    },
+    {
+      "date": "8/16/2016",
+      "data": {
+        "tech": 5.3,
+        "travel": 1.5,
+        "distance": 20,
+        "expenses": 24
+      }
+    },
+    {
+      "date": "8/17/2016",
+      "data": {
+        "tech": 5.8,
+        "travel": 1.9,
+        "distance": 19,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "8/18/2016",
+      "data": {
+        "tech": 5.7,
+        "travel": 1.8,
+        "distance": 22,
+        "expenses": 11.5
+      }
+    },
+    {
+      "date": "8/19/2016",
+      "data": {
+        "tech": 5.8,
+        "travel": 3.2,
+        "distance": 46,
+        "expenses": 12.74
+      }
+    },
+    {
+      "date": "8/22/2016",
+      "data": {
+        "tech": 2.1,
+        "travel": 2.3,
+        "distance": 75,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/23/2016",
+      "data": {
+        "tech": 4.3,
+        "travel": 1.5,
+        "distance": 14,
+        "expenses": 22
+      }
+    },
+    {
+      "date": "8/24/2016",
+      "data": {
+        "tech": 3.8,
+        "travel": 2.8,
+        "distance": 71,
+        "expenses": 12.21
+      }
+    },
+    {
+      "date": "8/25/2016",
+      "data": {
+        "tech": 2.8,
+        "travel": 1.4,
+        "distance": 26,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "8/26/2016",
+      "data": {
+        "tech": 4.6,
+        "travel": 1.8,
+        "distance": 18,
+        "expenses": 17
+      }
+    },
+    {
+      "date": "8/29/2016",
+      "data": {
+        "tech": 4.9,
+        "travel": 2.3,
+        "distance": 23,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "8/30/2016",
+      "data": {
+        "tech": 4.4,
+        "travel": 2.7,
+        "distance": 71,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "8/31/2016",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/1/2016",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/2/2016",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/5/2016",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/6/2016",
+      "data": {
+        "tech": 3.8,
+        "travel": 1.4,
+        "distance": 14,
+        "expenses": 7
+      }
+    },
+    {
+      "date": "9/7/2016",
+      "data": {
+        "tech": 3.8,
+        "travel": 2.3,
+        "distance": 37,
+        "expenses": 15.99
+      }
+    },
+    {
+      "date": "9/8/2016",
+      "data": {
+        "tech": 3.4,
+        "travel": 1.8,
+        "distance": 18,
+        "expenses": 8.5
+      }
+    },
+    {
+      "date": "9/9/2016",
+      "data": {
+        "tech": 4.2,
+        "travel": 2.7,
+        "distance": 30,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "9/12/2016",
+      "data": {
+        "tech": 3.3,
+        "travel": 1.5,
+        "distance": 32,
+        "expenses": 23
+      }
+    },
+    {
+      "date": "9/13/2016",
+      "data": {
+        "tech": 4.6,
+        "travel": 3.4,
+        "distance": 40,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "9/14/2016",
+      "data": {
+        "tech": 4.6,
+        "travel": 1.9,
+        "distance": 21,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "9/15/2016",
+      "data": {
+        "tech": 4.3,
+        "travel": 1.8,
+        "distance": 29,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "9/16/2016",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.9,
+        "distance": 40,
+        "expenses": 7
+      }
+    },
+    {
+      "date": "9/19/2016",
+      "data": {
+        "tech": 2.7,
+        "travel": 2.4,
+        "distance": 51,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/20/2016",
+      "data": {
+        "tech": 4.4,
+        "travel": 3.4,
+        "distance": 79,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/21/2016",
+      "data": {
+        "tech": 5.6,
+        "travel": 5.4,
+        "distance": 193,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/22/2016",
+      "data": {
+        "tech": 4,
+        "travel": 3.1,
+        "distance": 73,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "9/23/2016",
+      "data": {
+        "tech": 4.5,
+        "travel": 1.1,
+        "distance": 26,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/26/2016",
+      "data": {
+        "tech": 3.3,
+        "travel": 2.9,
+        "distance": 92,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/27/2016",
+      "data": {
+        "tech": 6.2,
+        "travel": 2.8,
+        "distance": 40,
+        "expenses": 9
+      }
+    },
+    {
+      "date": "9/28/2016",
+      "data": {
+        "tech": 4.8,
+        "travel": 2,
+        "distance": 31,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "9/29/2016",
+      "data": {
+        "tech": 3,
+        "travel": 4.2,
+        "distance": 179,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/30/2016",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/3/2016",
+      "data": {
+        "tech": 3.7,
+        "travel": 1.8,
+        "distance": 34,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "10/4/2016",
+      "data": {
+        "tech": 5.7,
+        "travel": 2.8,
+        "distance": 44,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "10/5/2016",
+      "data": {
+        "tech": 8.4,
+        "travel": 1.2,
+        "distance": 40,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/6/2016",
+      "data": {
+        "tech": 4.1,
+        "travel": 1.4,
+        "distance": 16,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "10/7/2016",
+      "data": {
+        "tech": 3.7,
+        "travel": 2.7,
+        "distance": 39,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "10/10/2016",
+      "data": {
+        "tech": 1.4,
+        "travel": 1,
+        "distance": 10,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "10/11/2016",
+      "data": {
+        "tech": 4.3,
+        "travel": 3.6,
+        "distance": 68,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/12/2016",
+      "data": {
+        "tech": 1.8,
+        "travel": 1.8,
+        "distance": 49,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "10/13/2016",
+      "data": {
+        "tech": 2,
+        "travel": 1.3,
+        "distance": 15,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "10/14/2016",
+      "data": {
+        "tech": 3.4,
+        "travel": 1.6,
+        "distance": 26,
+        "expenses": 13
+      }
+    },
+    {
+      "date": "10/17/2016",
+      "data": {
+        "tech": 5.2,
+        "travel": 2.8,
+        "distance": 42,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "10/18/2016",
+      "data": {
+        "tech": 5.8,
+        "travel": 2.4,
+        "distance": 31,
+        "expenses": 19.47
+      }
+    },
+    {
+      "date": "10/19/2016",
+      "data": {
+        "tech": 4.8,
+        "travel": 3.6,
+        "distance": 87,
+        "expenses": 2.5
+      }
+    },
+    {
+      "date": "10/20/2016",
+      "data": {
+        "tech": 4.7,
+        "travel": 2.4,
+        "distance": 59,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/21/2016",
+      "data": {
+        "tech": 4.7,
+        "travel": 1.6,
+        "distance": 15,
+        "expenses": 31.65
+      }
+    },
+    {
+      "date": "10/24/2016",
+      "data": {
+        "tech": 3,
+        "travel": 1.7,
+        "distance": 36,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "10/25/2016",
+      "data": {
+        "tech": 5.2,
+        "travel": 2.4,
+        "distance": 18,
+        "expenses": 22.55
+      }
+    },
+    {
+      "date": "10/26/2016",
+      "data": {
+        "tech": 6.4,
+        "travel": 1.9,
+        "distance": 24,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "10/27/2016",
+      "data": {
+        "tech": 6.2,
+        "travel": 2.9,
+        "distance": 38,
+        "expenses": 35
+      }
+    },
+    {
+      "date": "10/28/2016",
+      "data": {
+        "tech": 7.3,
+        "travel": 1.6,
+        "distance": 23,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "10/31/2016",
+      "data": {
+        "tech": 7.6,
+        "travel": 1.2,
+        "distance": 28,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/1/2016",
+      "data": {
+        "tech": 8.3,
+        "travel": 1.2,
+        "distance": 35,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/2/2016",
+      "data": {
+        "tech": 5.5,
+        "travel": 2.3,
+        "distance": 33,
+        "expenses": 21.77
+      }
+    },
+    {
+      "date": "11/3/2016",
+      "data": {
+        "tech": 5.2,
+        "travel": 2.8,
+        "distance": 46,
+        "expenses": 17
+      }
+    },
+    {
+      "date": "11/4/2016",
+      "data": {
+        "tech": 3.8,
+        "travel": 2.2,
+        "distance": 45,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/7/2016",
+      "data": {
+        "tech": 1,
+        "travel": 1.2,
+        "distance": 33,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/8/2016",
+      "data": {
+        "tech": 4.9,
+        "travel": 2.7,
+        "distance": 29,
+        "expenses": 31.5
+      }
+    },
+    {
+      "date": "11/9/2016",
+      "data": {
+        "tech": 4.1,
+        "travel": 0.8,
+        "distance": 13,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "11/10/2016",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/11/2016",
+      "data": {
+        "tech": 2.1,
+        "travel": 2.1,
+        "distance": 26,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/14/2016",
+      "data": {
+        "tech": 5,
+        "travel": 2.1,
+        "distance": 35,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/15/2016",
+      "data": {
+        "tech": 2.3,
+        "travel": 1.6,
+        "distance": 13,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "11/16/2016",
+      "data": {
+        "tech": 4.2,
+        "travel": 2.4,
+        "distance": 34,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "11/17/2016",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/18/2016",
+      "data": {
+        "tech": 2.1,
+        "travel": 0.9,
+        "distance": 16,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/21/2016",
+      "data": {
+        "tech": 4.2,
+        "travel": 2.2,
+        "distance": 62,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/22/2016",
+      "data": {
+        "tech": 4,
+        "travel": 1.7,
+        "distance": 21,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/23/2016",
+      "data": {
+        "tech": 4,
+        "travel": 2.9,
+        "distance": 67,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/24/2016",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/25/2016",
+      "data": {
+        "tech": 0.8,
+        "travel": 1.2,
+        "distance": 12,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "11/28/2016",
+      "data": {
+        "tech": 2.4,
+        "travel": 2,
+        "distance": 44,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "11/29/2016",
+      "data": {
+        "tech": 1.3,
+        "travel": 0.8,
+        "distance": 14,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/30/2016",
+      "data": {
+        "tech": 3.6,
+        "travel": 2.2,
+        "distance": 26,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "12/1/2016",
+      "data": {
+        "tech": 2.5,
+        "travel": 2.1,
+        "distance": 67,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/2/2016",
+      "data": {
+        "tech": 4.7,
+        "travel": 3.8,
+        "distance": 76,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/5/2016",
+      "data": {
+        "tech": 4.2,
+        "travel": 2.9,
+        "distance": 26,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "12/6/2016",
+      "data": {
+        "tech": 5.2,
+        "travel": 2.1,
+        "distance": 37,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "12/7/2016",
+      "data": {
+        "tech": 6.1,
+        "travel": 2.4,
+        "distance": 27,
+        "expenses": 24
+      }
+    },
+    {
+      "date": "12/8/2016",
+      "data": {
+        "tech": 5.3,
+        "travel": 3,
+        "distance": 38,
+        "expenses": 22.99
+      }
+    },
+    {
+      "date": "12/9/2016",
+      "data": {
+        "tech": 0.5,
+        "travel": 0.6,
+        "distance": 8,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "12/12/2016",
+      "data": {
+        "tech": 3.3,
+        "travel": 1.8,
+        "distance": 44,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "12/13/2016",
+      "data": {
+        "tech": 3.2,
+        "travel": 2.7,
+        "distance": 55,
+        "expenses": 9
+      }
+    },
+    {
+      "date": "12/14/2016",
+      "data": {
+        "tech": 5.3,
+        "travel": 2.8,
+        "distance": 81,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/15/2016",
+      "data": {
+        "tech": 5.5,
+        "travel": 4.9,
+        "distance": 121,
+        "expenses": 16.37
+      }
+    },
+    {
+      "date": "12/16/2016",
+      "data": {
+        "tech": 2.5,
+        "travel": 1.9,
+        "distance": 62,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/19/2016",
+      "data": {
+        "tech": 2.3,
+        "travel": 2,
+        "distance": 67,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/20/2016",
+      "data": {
+        "tech": 6.9,
+        "travel": 2.9,
+        "distance": 91,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/21/2016",
+      "data": {
+        "tech": 3.8,
+        "travel": 4.6,
+        "distance": 196,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/22/2016",
+      "data": {
+        "tech": 2.9,
+        "travel": 2.4,
+        "distance": 79,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/23/2016",
+      "data": {
+        "tech": 4.4,
+        "travel": 3,
+        "distance": 83,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/26/2016",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/27/2016",
+      "data": {
+        "tech": 2.2,
+        "travel": 1.6,
+        "distance": 50,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/28/2016",
+      "data": {
+        "tech": 5.6,
+        "travel": 2.3,
+        "distance": 25,
+        "expenses": 26.71
+      }
+    },
+    {
+      "date": "12/29/2016",
+      "data": {
+        "tech": 5,
+        "travel": 2.8,
+        "distance": 29,
+        "expenses": 51.2
+      }
+    },
+    {
+      "date": "12/30/2016",
+      "data": {
+        "tech": 4.7,
+        "travel": 2.1,
+        "distance": 40,
+        "expenses": 25
+      }
+    },
+    {
+      "date": "1/2/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "1/3/2017",
+      "data": {
+        "tech": 2.8,
+        "travel": 1,
+        "distance": 16,
+        "expenses": 13
+      }
+    },
+    {
+      "date": "1/4/2017",
+      "data": {
+        "tech": 3.7,
+        "travel": 2.8,
+        "distance": 60,
+        "expenses": 3.75
+      }
+    },
+    {
+      "date": "1/5/2017",
+      "data": {
+        "tech": 6.3,
+        "travel": 4.1,
+        "distance": 129,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "1/6/2017",
+      "data": {
+        "tech": 2.3,
+        "travel": 4.1,
+        "distance": 56,
+        "expenses": 29.2
+      }
+    },
+    {
+      "date": "1/9/2017",
+      "data": {
+        "tech": 5.5,
+        "travel": 3.9,
+        "distance": 92,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "1/10/2017",
+      "data": {
+        "tech": 4.5,
+        "travel": 1.1,
+        "distance": 17,
+        "expenses": 4
+      }
+    },
+    {
+      "date": "1/11/2017",
+      "data": {
+        "tech": 1.4,
+        "travel": 0.7,
+        "distance": 11,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "1/12/2017",
+      "data": {
+        "tech": 4.4,
+        "travel": 1.6,
+        "distance": 21,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "1/13/2017",
+      "data": {
+        "tech": 5.2,
+        "travel": 2.8,
+        "distance": 45,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "1/16/2017",
+      "data": {
+        "tech": 4.6,
+        "travel": 2.3,
+        "distance": 27,
+        "expenses": 32
+      }
+    },
+    {
+      "date": "1/17/2017",
+      "data": {
+        "tech": 5.7,
+        "travel": 3,
+        "distance": 49,
+        "expenses": 32
+      }
+    },
+    {
+      "date": "1/18/2017",
+      "data": {
+        "tech": 3.6,
+        "travel": 2.5,
+        "distance": 44,
+        "expenses": 24
+      }
+    },
+    {
+      "date": "1/19/2017",
+      "data": {
+        "tech": 5.3,
+        "travel": 2.4,
+        "distance": 29,
+        "expenses": 13
+      }
+    },
+    {
+      "date": "1/20/2017",
+      "data": {
+        "tech": 2.4,
+        "travel": 0.9,
+        "distance": 11,
+        "expenses": 17
+      }
+    },
+    {
+      "date": "1/23/2017",
+      "data": {
+        "tech": 4.1,
+        "travel": 2.8,
+        "distance": 34,
+        "expenses": 27
+      }
+    },
+    {
+      "date": "1/24/2017",
+      "data": {
+        "tech": 5.4,
+        "travel": 2.3,
+        "distance": 43,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "1/25/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 2,
+        "distance": 34,
+        "expenses": 18
+      }
+    },
+    {
+      "date": "1/26/2017",
+      "data": {
+        "tech": 5.2,
+        "travel": 3,
+        "distance": 55,
+        "expenses": 7
+      }
+    },
+    {
+      "date": "1/27/2017",
+      "data": {
+        "tech": 5.7,
+        "travel": 1.6,
+        "distance": 17,
+        "expenses": 22
+      }
+    },
+    {
+      "date": "1/30/2017",
+      "data": {
+        "tech": 4.6,
+        "travel": 3.4,
+        "distance": 20,
+        "expenses": 39.2
+      }
+    },
+    {
+      "date": "1/31/2017",
+      "data": {
+        "tech": 3.8,
+        "travel": 3.6,
+        "distance": 17,
+        "expenses": 29.2
+      }
+    },
+    {
+      "date": "2/1/2017",
+      "data": {
+        "tech": 4.6,
+        "travel": 2.2,
+        "distance": 35,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "2/2/2017",
+      "data": {
+        "tech": 4.7,
+        "travel": 2.6,
+        "distance": 32,
+        "expenses": 18.99
+      }
+    },
+    {
+      "date": "2/3/2017",
+      "data": {
+        "tech": 5.6,
+        "travel": 1.9,
+        "distance": 29,
+        "expenses": 26.65
+      }
+    },
+    {
+      "date": "2/6/2017",
+      "data": {
+        "tech": 2.2,
+        "travel": 1.2,
+        "distance": 13,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "2/7/2017",
+      "data": {
+        "tech": 6.3,
+        "travel": 2,
+        "distance": 35,
+        "expenses": 3.82
+      }
+    },
+    {
+      "date": "2/8/2017",
+      "data": {
+        "tech": 5.6,
+        "travel": 4.9,
+        "distance": 45,
+        "expenses": 65.24
+      }
+    },
+    {
+      "date": "2/9/2017",
+      "data": {
+        "tech": 5.9,
+        "travel": 2.8,
+        "distance": 41,
+        "expenses": 20.65
+      }
+    },
+    {
+      "date": "2/10/2017",
+      "data": {
+        "tech": 6.4,
+        "travel": 2.2,
+        "distance": 45,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "2/13/2017",
+      "data": {
+        "tech": 5.6,
+        "travel": 2.4,
+        "distance": 32,
+        "expenses": 35.15
+      }
+    },
+    {
+      "date": "2/14/2017",
+      "data": {
+        "tech": 5.8,
+        "travel": 2.1,
+        "distance": 16,
+        "expenses": 33
+      }
+    },
+    {
+      "date": "2/15/2017",
+      "data": {
+        "tech": 4.7,
+        "travel": 2.2,
+        "distance": 38,
+        "expenses": 21.65
+      }
+    },
+    {
+      "date": "2/16/2017",
+      "data": {
+        "tech": 3.3,
+        "travel": 2.3,
+        "distance": 66,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "2/17/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 3,
+        "distance": 47,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "2/20/2017",
+      "data": {
+        "tech": 3.5,
+        "travel": 1.7,
+        "distance": 36,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "2/21/2017",
+      "data": {
+        "tech": 3.1,
+        "travel": 2.3,
+        "distance": 46,
+        "expenses": 18
+      }
+    },
+    {
+      "date": "2/22/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 1.3,
+        "distance": 22,
+        "expenses": 9.29
+      }
+    },
+    {
+      "date": "2/23/2017",
+      "data": {
+        "tech": 4.8,
+        "travel": 2.4,
+        "distance": 33,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "2/24/2017",
+      "data": {
+        "tech": 5.6,
+        "travel": 2.5,
+        "distance": 28,
+        "expenses": 19.03
+      }
+    },
+    {
+      "date": "2/27/2017",
+      "data": {
+        "tech": 6.4,
+        "travel": 1.9,
+        "distance": 16,
+        "expenses": 48.54
+      }
+    },
+    {
+      "date": "2/28/2017",
+      "data": {
+        "tech": 5.5,
+        "travel": 2.6,
+        "distance": 54,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "3/1/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 1.5,
+        "distance": 32,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "3/2/2017",
+      "data": {
+        "tech": 5.8,
+        "travel": 2.6,
+        "distance": 32,
+        "expenses": 19
+      }
+    },
+    {
+      "date": "3/3/2017",
+      "data": {
+        "tech": 4.1,
+        "travel": 3.7,
+        "distance": 65,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "3/6/2017",
+      "data": {
+        "tech": 3.8,
+        "travel": 1.7,
+        "distance": 22,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "3/7/2017",
+      "data": {
+        "tech": 5.9,
+        "travel": 3.4,
+        "distance": 57,
+        "expenses": 9
+      }
+    },
+    {
+      "date": "3/8/2017",
+      "data": {
+        "tech": 5.8,
+        "travel": 2.7,
+        "distance": 36,
+        "expenses": 23
+      }
+    },
+    {
+      "date": "3/9/2017",
+      "data": {
+        "tech": 4.6,
+        "travel": 3.3,
+        "distance": 48,
+        "expenses": 15.28
+      }
+    },
+    {
+      "date": "3/10/2017",
+      "data": {
+        "tech": 6.5,
+        "travel": 2,
+        "distance": 37,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "3/13/2017",
+      "data": {
+        "tech": 5.8,
+        "travel": 3.5,
+        "distance": 66,
+        "expenses": 2.5
+      }
+    },
+    {
+      "date": "3/14/2017",
+      "data": {
+        "tech": 2.3,
+        "travel": 1.8,
+        "distance": 23,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "3/15/2017",
+      "data": {
+        "tech": 5.1,
+        "travel": 3.7,
+        "distance": 98,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "3/16/2017",
+      "data": {
+        "tech": 4.8,
+        "travel": 2.4,
+        "distance": 42,
+        "expenses": 15.5
+      }
+    },
+    {
+      "date": "3/17/2017",
+      "data": {
+        "tech": 5.3,
+        "travel": 1.1,
+        "distance": 13,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "3/20/2017",
+      "data": {
+        "tech": 3.8,
+        "travel": 1.5,
+        "distance": 16,
+        "expenses": 16.5
+      }
+    },
+    {
+      "date": "3/21/2017",
+      "data": {
+        "tech": 3.7,
+        "travel": 1.4,
+        "distance": 14,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "3/22/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.6,
+        "distance": 34,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "3/23/2017",
+      "data": {
+        "tech": 5.8,
+        "travel": 1.9,
+        "distance": 17,
+        "expenses": 39
+      }
+    },
+    {
+      "date": "3/24/2017",
+      "data": {
+        "tech": 5.4,
+        "travel": 2.9,
+        "distance": 37,
+        "expenses": 29
+      }
+    },
+    {
+      "date": "3/27/2017",
+      "data": {
+        "tech": 2,
+        "travel": 3.4,
+        "distance": 18,
+        "expenses": 34.2
+      }
+    },
+    {
+      "date": "3/28/2017",
+      "data": {
+        "tech": 4.5,
+        "travel": 2,
+        "distance": 26,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "3/29/2017",
+      "data": {
+        "tech": 4.5,
+        "travel": 1.5,
+        "distance": 14,
+        "expenses": 26.65
+      }
+    },
+    {
+      "date": "3/30/2017",
+      "data": {
+        "tech": 7.7,
+        "travel": 2.7,
+        "distance": 54,
+        "expenses": 12.91
+      }
+    },
+    {
+      "date": "3/31/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 1.8,
+        "distance": 33,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "4/3/2017",
+      "data": {
+        "tech": 4.1,
+        "travel": 2.1,
+        "distance": 32,
+        "expenses": 6.26
+      }
+    },
+    {
+      "date": "4/4/2017",
+      "data": {
+        "tech": 2.5,
+        "travel": 1.1,
+        "distance": 13,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "4/5/2017",
+      "data": {
+        "tech": 3.7,
+        "travel": 3.5,
+        "distance": 42,
+        "expenses": 28.6
+      }
+    },
+    {
+      "date": "4/6/2017",
+      "data": {
+        "tech": 4.8,
+        "travel": 1.9,
+        "distance": 28,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "4/7/2017",
+      "data": {
+        "tech": 4.7,
+        "travel": 3.4,
+        "distance": 63,
+        "expenses": 19.81
+      }
+    },
+    {
+      "date": "4/10/2017",
+      "data": {
+        "tech": 5.6,
+        "travel": 2.2,
+        "distance": 25,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "4/11/2017",
+      "data": {
+        "tech": 3.7,
+        "travel": 1.9,
+        "distance": 24,
+        "expenses": 19
+      }
+    },
+    {
+      "date": "4/12/2017",
+      "data": {
+        "tech": 3.8,
+        "travel": 3.3,
+        "distance": 25,
+        "expenses": 39.42
+      }
+    },
+    {
+      "date": "4/13/2017",
+      "data": {
+        "tech": 5.1,
+        "travel": 2.3,
+        "distance": 40,
+        "expenses": 11
+      }
+    },
+    {
+      "date": "4/14/2017",
+      "data": {
+        "tech": 3.4,
+        "travel": 1.2,
+        "distance": 10,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "4/17/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.4,
+        "distance": 44,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/18/2017",
+      "data": {
+        "tech": 3.4,
+        "travel": 1.8,
+        "distance": 32,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "4/19/2017",
+      "data": {
+        "tech": 3.8,
+        "travel": 1.1,
+        "distance": 12,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "4/20/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/21/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/24/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/25/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/26/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/27/2017",
+      "data": {
+        "tech": 5.3,
+        "travel": 3.3,
+        "distance": 47,
+        "expenses": 23
+      }
+    },
+    {
+      "date": "4/28/2017",
+      "data": {
+        "tech": 6.1,
+        "travel": 2.5,
+        "distance": 36,
+        "expenses": 19
+      }
+    },
+    {
+      "date": "5/1/2017",
+      "data": {
+        "tech": 4.7,
+        "travel": 1.4,
+        "distance": 18,
+        "expenses": 43.35
+      }
+    },
+    {
+      "date": "5/2/2017",
+      "data": {
+        "tech": 3.3,
+        "travel": 1.8,
+        "distance": 42,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "5/3/2017",
+      "data": {
+        "tech": 6,
+        "travel": 3.6,
+        "distance": 52,
+        "expenses": 44.71
+      }
+    },
+    {
+      "date": "5/4/2017",
+      "data": {
+        "tech": 3.4,
+        "travel": 3.1,
+        "distance": 57,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "5/5/2017",
+      "data": {
+        "tech": 3.8,
+        "travel": 1.8,
+        "distance": 12,
+        "expenses": 32
+      }
+    },
+    {
+      "date": "5/8/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.2,
+        "distance": 34,
+        "expenses": 9.81
+      }
+    },
+    {
+      "date": "5/9/2017",
+      "data": {
+        "tech": 5.5,
+        "travel": 1.8,
+        "distance": 26,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "5/10/2017",
+      "data": {
+        "tech": 3.8,
+        "travel": 2.6,
+        "distance": 66,
+        "expenses": 23
+      }
+    },
+    {
+      "date": "5/11/2017",
+      "data": {
+        "tech": 5.8,
+        "travel": 1.9,
+        "distance": 29,
+        "expenses": 24
+      }
+    },
+    {
+      "date": "5/12/2017",
+      "data": {
+        "tech": 3.8,
+        "travel": 5.5,
+        "distance": 31,
+        "expenses": 46.21
+      }
+    },
+    {
+      "date": "5/15/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 3.2,
+        "distance": 44,
+        "expenses": 13
+      }
+    },
+    {
+      "date": "5/16/2017",
+      "data": {
+        "tech": 3.2,
+        "travel": 1.8,
+        "distance": 34,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "5/17/2017",
+      "data": {
+        "tech": 6,
+        "travel": 2.8,
+        "distance": 42,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "5/18/2017",
+      "data": {
+        "tech": 5.2,
+        "travel": 2.8,
+        "distance": 47,
+        "expenses": 1
+      }
+    },
+    {
+      "date": "5/19/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 1.4,
+        "distance": 12,
+        "expenses": 17.58
+      }
+    },
+    {
+      "date": "5/22/2017",
+      "data": {
+        "tech": 3.2,
+        "travel": 1.5,
+        "distance": 19,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "5/23/2017",
+      "data": {
+        "tech": 2.4,
+        "travel": 1.1,
+        "distance": 14,
+        "expenses": 2
+      }
+    },
+    {
+      "date": "5/24/2017",
+      "data": {
+        "tech": 2.8,
+        "travel": 1.8,
+        "distance": 33,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "5/25/2017",
+      "data": {
+        "tech": 4.4,
+        "travel": 3.3,
+        "distance": 44,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "5/26/2017",
+      "data": {
+        "tech": 2.4,
+        "travel": 1.2,
+        "distance": 16,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "5/29/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "5/30/2017",
+      "data": {
+        "tech": 3.7,
+        "travel": 1.4,
+        "distance": 31,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "5/31/2017",
+      "data": {
+        "tech": 4.9,
+        "travel": 3,
+        "distance": 58,
+        "expenses": 6.76
+      }
+    },
+    {
+      "date": "6/1/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 1.5,
+        "distance": 14,
+        "expenses": 13
+      }
+    },
+    {
+      "date": "6/2/2017",
+      "data": {
+        "tech": 2.4,
+        "travel": 1.8,
+        "distance": 37,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "6/5/2017",
+      "data": {
+        "tech": 1.1,
+        "travel": 1.7,
+        "distance": 26,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "6/6/2017",
+      "data": {
+        "tech": 4.4,
+        "travel": 2,
+        "distance": 25,
+        "expenses": 38.47
+      }
+    },
+    {
+      "date": "6/7/2017",
+      "data": {
+        "tech": 3.4,
+        "travel": 1.9,
+        "distance": 28,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "6/8/2017",
+      "data": {
+        "tech": 2.5,
+        "travel": 2.1,
+        "distance": 20,
+        "expenses": 17
+      }
+    },
+    {
+      "date": "6/9/2017",
+      "data": {
+        "tech": 3.2,
+        "travel": 1.6,
+        "distance": 35,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/12/2017",
+      "data": {
+        "tech": 4.8,
+        "travel": 2.8,
+        "distance": 38,
+        "expenses": 27
+      }
+    },
+    {
+      "date": "6/13/2017",
+      "data": {
+        "tech": 2.3,
+        "travel": 0.9,
+        "distance": 9,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "6/14/2017",
+      "data": {
+        "tech": 2,
+        "travel": 1.3,
+        "distance": 15,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "6/15/2017",
+      "data": {
+        "tech": 2.1,
+        "travel": 1.3,
+        "distance": 12,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "6/16/2017",
+      "data": {
+        "tech": 3.6,
+        "travel": 3.1,
+        "distance": 67,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/19/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/20/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/21/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/22/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/23/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/26/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/27/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/28/2017",
+      "data": {
+        "tech": 6.4,
+        "travel": 2.8,
+        "distance": 25,
+        "expenses": 13.61
+      }
+    },
+    {
+      "date": "6/29/2017",
+      "data": {
+        "tech": 3.9,
+        "travel": 2.2,
+        "distance": 27,
+        "expenses": 28
+      }
+    },
+    {
+      "date": "6/30/2017",
+      "data": {
+        "tech": 4.4,
+        "travel": 4.8,
+        "distance": 41,
+        "expenses": 43.2
+      }
+    },
+    {
+      "date": "7/3/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/4/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/5/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/6/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/7/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/10/2017",
+      "data": {
+        "tech": 7.1,
+        "travel": 1.3,
+        "distance": 28,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/11/2017",
+      "data": {
+        "tech": 5.8,
+        "travel": 2.7,
+        "distance": 28,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "7/12/2017",
+      "data": {
+        "tech": 5.8,
+        "travel": 2.3,
+        "distance": 30,
+        "expenses": 9.96
+      }
+    },
+    {
+      "date": "7/13/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 1.3,
+        "distance": 22,
+        "expenses": 25
+      }
+    },
+    {
+      "date": "7/14/2017",
+      "data": {
+        "tech": 3.1,
+        "travel": 2.1,
+        "distance": 30,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "7/17/2017",
+      "data": {
+        "tech": 5.3,
+        "travel": 2.8,
+        "distance": 33,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "7/18/2017",
+      "data": {
+        "tech": 2.8,
+        "travel": 5.8,
+        "distance": 56,
+        "expenses": 54.79
+      }
+    },
+    {
+      "date": "7/19/2017",
+      "data": {
+        "tech": 5.1,
+        "travel": 3,
+        "distance": 47,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "7/20/2017",
+      "data": {
+        "tech": 6.1,
+        "travel": 3.8,
+        "distance": 42,
+        "expenses": 30
+      }
+    },
+    {
+      "date": "7/21/2017",
+      "data": {
+        "tech": 3.9,
+        "travel": 5.3,
+        "distance": 29,
+        "expenses": 48.4
+      }
+    },
+    {
+      "date": "7/24/2017",
+      "data": {
+        "tech": 3.9,
+        "travel": 2.9,
+        "distance": 46,
+        "expenses": 9
+      }
+    },
+    {
+      "date": "7/25/2017",
+      "data": {
+        "tech": 3.2,
+        "travel": 2.3,
+        "distance": 35,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "7/26/2017",
+      "data": {
+        "tech": 5,
+        "travel": 3.1,
+        "distance": 46,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "7/27/2017",
+      "data": {
+        "tech": 5,
+        "travel": 2.3,
+        "distance": 26,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/28/2017",
+      "data": {
+        "tech": 3.2,
+        "travel": 2.7,
+        "distance": 48,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "7/31/2017",
+      "data": {
+        "tech": 4.1,
+        "travel": 3.5,
+        "distance": 73,
+        "expenses": 4
+      }
+    },
+    {
+      "date": "8/1/2017",
+      "data": {
+        "tech": 1.4,
+        "travel": 2.1,
+        "distance": 51,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/2/2017",
+      "data": {
+        "tech": 1.8,
+        "travel": 1.3,
+        "distance": 21,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/3/2017",
+      "data": {
+        "tech": 2.8,
+        "travel": 1.3,
+        "distance": 15,
+        "expenses": 9.81
+      }
+    },
+    {
+      "date": "8/4/2017",
+      "data": {
+        "tech": 3.1,
+        "travel": 1.5,
+        "distance": 19,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/7/2017",
+      "data": {
+        "tech": 2.5,
+        "travel": 2.1,
+        "distance": 56,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "8/8/2017",
+      "data": {
+        "tech": 4.4,
+        "travel": 3.3,
+        "distance": 73,
+        "expenses": 4
+      }
+    },
+    {
+      "date": "8/9/2017",
+      "data": {
+        "tech": 4,
+        "travel": 3.3,
+        "distance": 78,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "8/10/2017",
+      "data": {
+        "tech": 3.3,
+        "travel": 5.2,
+        "distance": 35,
+        "expenses": 49.4
+      }
+    },
+    {
+      "date": "8/11/2017",
+      "data": {
+        "tech": 5.5,
+        "travel": 2.8,
+        "distance": 40,
+        "expenses": 24.5
+      }
+    },
+    {
+      "date": "8/14/2017",
+      "data": {
+        "tech": 3.9,
+        "travel": 2,
+        "distance": 36,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "8/15/2017",
+      "data": {
+        "tech": 4,
+        "travel": 2.4,
+        "distance": 33,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "8/16/2017",
+      "data": {
+        "tech": 2.5,
+        "travel": 2.3,
+        "distance": 52,
+        "expenses": 2.5
+      }
+    },
+    {
+      "date": "8/17/2017",
+      "data": {
+        "tech": 2.3,
+        "travel": 1.5,
+        "distance": 18,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "8/18/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/21/2017",
+      "data": {
+        "tech": 1.1,
+        "travel": 1.3,
+        "distance": 32,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "8/22/2017",
+      "data": {
+        "tech": 3.9,
+        "travel": 3.3,
+        "distance": 40,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "8/23/2017",
+      "data": {
+        "tech": 4.6,
+        "travel": 2,
+        "distance": 27,
+        "expenses": 33.5
+      }
+    },
+    {
+      "date": "8/24/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/25/2017",
+      "data": {
+        "tech": 3.4,
+        "travel": 1.4,
+        "distance": 13,
+        "expenses": 18
+      }
+    },
+    {
+      "date": "8/28/2017",
+      "data": {
+        "tech": 5.1,
+        "travel": 2.5,
+        "distance": 34,
+        "expenses": 34.26
+      }
+    },
+    {
+      "date": "8/29/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/30/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/31/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/1/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/4/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/5/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/6/2017",
+      "data": {
+        "tech": 4.9,
+        "travel": 2.3,
+        "distance": 39,
+        "expenses": 18.39
+      }
+    },
+    {
+      "date": "9/7/2017",
+      "data": {
+        "tech": 6.8,
+        "travel": 2.4,
+        "distance": 39,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "9/8/2017",
+      "data": {
+        "tech": 1.5,
+        "travel": 1.9,
+        "distance": 28,
+        "expenses": 2.5
+      }
+    },
+    {
+      "date": "9/11/2017",
+      "data": {
+        "tech": 5.5,
+        "travel": 2.6,
+        "distance": 47,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/12/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 3.7,
+        "distance": 102,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/13/2017",
+      "data": {
+        "tech": 2.4,
+        "travel": 2.2,
+        "distance": 43,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/14/2017",
+      "data": {
+        "tech": 4.4,
+        "travel": 2.8,
+        "distance": 44,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/15/2017",
+      "data": {
+        "tech": 3.6,
+        "travel": 2.7,
+        "distance": 31,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "9/18/2017",
+      "data": {
+        "tech": 6.8,
+        "travel": 2.3,
+        "distance": 21,
+        "expenses": 30.49
+      }
+    },
+    {
+      "date": "9/19/2017",
+      "data": {
+        "tech": 6.3,
+        "travel": 4.1,
+        "distance": 51,
+        "expenses": 34.39
+      }
+    },
+    {
+      "date": "9/20/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/21/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/22/2017",
+      "data": {
+        "tech": 5.8,
+        "travel": 2.9,
+        "distance": 30,
+        "expenses": 27.5
+      }
+    },
+    {
+      "date": "9/25/2017",
+      "data": {
+        "tech": 6.1,
+        "travel": 3.1,
+        "distance": 49,
+        "expenses": 43.39
+      }
+    },
+    {
+      "date": "9/26/2017",
+      "data": {
+        "tech": 1.9,
+        "travel": 0.8,
+        "distance": 46,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/27/2017",
+      "data": {
+        "tech": 6.1,
+        "travel": 3.3,
+        "distance": 46,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/28/2017",
+      "data": {
+        "tech": 5,
+        "travel": 2.9,
+        "distance": 72,
+        "expenses": 11
+      }
+    },
+    {
+      "date": "9/29/2017",
+      "data": {
+        "tech": 3.9,
+        "travel": 5.1,
+        "distance": 33,
+        "expenses": 38.4
+      }
+    },
+    {
+      "date": "10/2/2017",
+      "data": {
+        "tech": 6,
+        "travel": 2.5,
+        "distance": 41,
+        "expenses": 22
+      }
+    },
+    {
+      "date": "10/3/2017",
+      "data": {
+        "tech": 4.1,
+        "travel": 2.3,
+        "distance": 21,
+        "expenses": 15.63
+      }
+    },
+    {
+      "date": "10/4/2017",
+      "data": {
+        "tech": 2.4,
+        "travel": 2.1,
+        "distance": 33,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "10/5/2017",
+      "data": {
+        "tech": 3.2,
+        "travel": 2.5,
+        "distance": 34,
+        "expenses": 29
+      }
+    },
+    {
+      "date": "10/6/2017",
+      "data": {
+        "tech": 2.2,
+        "travel": 1.8,
+        "distance": 14,
+        "expenses": 17
+      }
+    },
+    {
+      "date": "10/9/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 3.1,
+        "distance": 43,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "10/10/2017",
+      "data": {
+        "tech": 5,
+        "travel": 3.6,
+        "distance": 47,
+        "expenses": 9
+      }
+    },
+    {
+      "date": "10/11/2017",
+      "data": {
+        "tech": 2.4,
+        "travel": 1.8,
+        "distance": 11,
+        "expenses": 23
+      }
+    },
+    {
+      "date": "10/12/2017",
+      "data": {
+        "tech": 3.5,
+        "travel": 2,
+        "distance": 22,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "10/13/2017",
+      "data": {
+        "tech": 1.8,
+        "travel": 1.8,
+        "distance": 18,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "10/16/2017",
+      "data": {
+        "tech": 1.9,
+        "travel": 1.6,
+        "distance": 23,
+        "expenses": 19
+      }
+    },
+    {
+      "date": "10/17/2017",
+      "data": {
+        "tech": 5.1,
+        "travel": 1.9,
+        "distance": 14,
+        "expenses": 25.5
+      }
+    },
+    {
+      "date": "10/18/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/19/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/20/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/23/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/24/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/25/2017",
+      "data": {
+        "tech": 4.2,
+        "travel": 3.2,
+        "distance": 50,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "10/26/2017",
+      "data": {
+        "tech": 4.5,
+        "travel": 3.3,
+        "distance": 54,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/27/2017",
+      "data": {
+        "tech": 4.6,
+        "travel": 3.4,
+        "distance": 68,
+        "expenses": 24
+      }
+    },
+    {
+      "date": "10/30/2017",
+      "data": {
+        "tech": 4.4,
+        "travel": 2.9,
+        "distance": 61,
+        "expenses": 14.71
+      }
+    },
+    {
+      "date": "10/31/2017",
+      "data": {
+        "tech": 5.5,
+        "travel": 2.9,
+        "distance": 37,
+        "expenses": 29.71
+      }
+    },
+    {
+      "date": "11/1/2017",
+      "data": {
+        "tech": 6.3,
+        "travel": 2.3,
+        "distance": 27,
+        "expenses": 33.13
+      }
+    },
+    {
+      "date": "11/2/2017",
+      "data": {
+        "tech": 4.8,
+        "travel": 3.9,
+        "distance": 60,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "11/3/2017",
+      "data": {
+        "tech": 5.8,
+        "travel": 3.2,
+        "distance": 40,
+        "expenses": 20.36
+      }
+    },
+    {
+      "date": "11/6/2017",
+      "data": {
+        "tech": 2.2,
+        "travel": 1,
+        "distance": 18,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "11/7/2017",
+      "data": {
+        "tech": 1.3,
+        "travel": 2.1,
+        "distance": 51,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/8/2017",
+      "data": {
+        "tech": 2.8,
+        "travel": 1.1,
+        "distance": 9,
+        "expenses": 22
+      }
+    },
+    {
+      "date": "11/9/2017",
+      "data": {
+        "tech": 5,
+        "travel": 3.1,
+        "distance": 34,
+        "expenses": 18.43
+      }
+    },
+    {
+      "date": "11/10/2017",
+      "data": {
+        "tech": 3.1,
+        "travel": 1.9,
+        "distance": 28,
+        "expenses": 0.82
+      }
+    },
+    {
+      "date": "11/13/2017",
+      "data": {
+        "tech": 4.4,
+        "travel": 2.8,
+        "distance": 51,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "11/14/2017",
+      "data": {
+        "tech": 3.2,
+        "travel": 1.6,
+        "distance": 21,
+        "expenses": 8.58
+      }
+    },
+    {
+      "date": "11/15/2017",
+      "data": {
+        "tech": 3.6,
+        "travel": 1.8,
+        "distance": 25,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "11/16/2017",
+      "data": {
+        "tech": 4.1,
+        "travel": 2.5,
+        "distance": 39,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/17/2017",
+      "data": {
+        "tech": 3.5,
+        "travel": 3.2,
+        "distance": 56,
+        "expenses": 4.9
+      }
+    },
+    {
+      "date": "11/20/2017",
+      "data": {
+        "tech": 2.5,
+        "travel": 2,
+        "distance": 32,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "11/21/2017",
+      "data": {
+        "tech": 4,
+        "travel": 2.5,
+        "distance": 41,
+        "expenses": 20.93
+      }
+    },
+    {
+      "date": "11/22/2017",
+      "data": {
+        "tech": 2.2,
+        "travel": 1.8,
+        "distance": 39,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "11/23/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/24/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/27/2017",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.2,
+        "distance": 40,
+        "expenses": 23.71
+      }
+    },
+    {
+      "date": "11/28/2017",
+      "data": {
+        "tech": 2.6,
+        "travel": 2.5,
+        "distance": 43,
+        "expenses": 9.81
+      }
+    },
+    {
+      "date": "11/29/2017",
+      "data": {
+        "tech": 7.4,
+        "travel": 2,
+        "distance": 47,
+        "expenses": 22
+      }
+    },
+    {
+      "date": "11/30/2017",
+      "data": {
+        "tech": 3.9,
+        "travel": 3.9,
+        "distance": 72,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "12/1/2017",
+      "data": {
+        "tech": 2.3,
+        "travel": 1.5,
+        "distance": 11,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "12/4/2017",
+      "data": {
+        "tech": 2.4,
+        "travel": 1.3,
+        "distance": 21,
+        "expenses": 3.68
+      }
+    },
+    {
+      "date": "12/5/2017",
+      "data": {
+        "tech": 2.4,
+        "travel": 2.3,
+        "distance": 42,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/6/2017",
+      "data": {
+        "tech": 1.5,
+        "travel": 1.6,
+        "distance": 23,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "12/7/2017",
+      "data": {
+        "tech": 3.7,
+        "travel": 1.9,
+        "distance": 28,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/8/2017",
+      "data": {
+        "tech": 2.9,
+        "travel": 2.8,
+        "distance": 33,
+        "expenses": 1.5
+      }
+    },
+    {
+      "date": "12/11/2017",
+      "data": {
+        "tech": 1.6,
+        "travel": 1.5,
+        "distance": 24,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/12/2017",
+      "data": {
+        "tech": 5.6,
+        "travel": 2.6,
+        "distance": 57,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/13/2017",
+      "data": {
+        "tech": 3.7,
+        "travel": 4,
+        "distance": 92,
+        "expenses": 41.5
+      }
+    },
+    {
+      "date": "12/14/2017",
+      "data": {
+        "tech": 6.9,
+        "travel": 3.7,
+        "distance": 66,
+        "expenses": 20.5
+      }
+    },
+    {
+      "date": "12/15/2017",
+      "data": {
+        "tech": 2.6,
+        "travel": 1.5,
+        "distance": 14,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "12/18/2017",
+      "data": {
+        "tech": 5.6,
+        "travel": 2.2,
+        "distance": 25,
+        "expenses": 38
+      }
+    },
+    {
+      "date": "12/19/2017",
+      "data": {
+        "tech": 10,
+        "travel": 3.7,
+        "distance": 75,
+        "expenses": 28
+      }
+    },
+    {
+      "date": "12/20/2017",
+      "data": {
+        "tech": 3.1,
+        "travel": 2.6,
+        "distance": 54,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/21/2017",
+      "data": {
+        "tech": 4.1,
+        "travel": 2.2,
+        "distance": 40,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/22/2017",
+      "data": {
+        "tech": 4.8,
+        "travel": 2.2,
+        "distance": 40,
+        "expenses": 7
+      }
+    },
+    {
+      "date": "12/25/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/26/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/27/2017",
+      "data": {
+        "tech": 3.5,
+        "travel": 2,
+        "distance": 41,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "12/28/2017",
+      "data": {
+        "tech": 3.5,
+        "travel": 2.9,
+        "distance": 55,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/29/2017",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "1/1/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "1/2/2018",
+      "data": {
+        "tech": 1.8,
+        "travel": 2.2,
+        "distance": 55,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "1/3/2018",
+      "data": {
+        "tech": 4,
+        "travel": 2.3,
+        "distance": 25,
+        "expenses": 9
+      }
+    },
+    {
+      "date": "1/4/2018",
+      "data": {
+        "tech": 6.1,
+        "travel": 3.2,
+        "distance": 73,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "1/5/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 3,
+        "distance": 36,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "1/8/2018",
+      "data": {
+        "tech": 5.8,
+        "travel": 1.9,
+        "distance": 17,
+        "expenses": 25
+      }
+    },
+    {
+      "date": "1/9/2018",
+      "data": {
+        "tech": 4.9,
+        "travel": 3.4,
+        "distance": 40,
+        "expenses": 14.58
+      }
+    },
+    {
+      "date": "1/10/2018",
+      "data": {
+        "tech": 5.3,
+        "travel": 2.7,
+        "distance": 27,
+        "expenses": 43.07
+      }
+    },
+    {
+      "date": "1/11/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 2.7,
+        "distance": 34,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "1/12/2018",
+      "data": {
+        "tech": 4.7,
+        "travel": 2.5,
+        "distance": 32,
+        "expenses": 28
+      }
+    },
+    {
+      "date": "1/15/2018",
+      "data": {
+        "tech": 1.9,
+        "travel": 1.3,
+        "distance": 14,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "1/16/2018",
+      "data": {
+        "tech": 3.5,
+        "travel": 1.9,
+        "distance": 26,
+        "expenses": 7
+      }
+    },
+    {
+      "date": "1/17/2018",
+      "data": {
+        "tech": 2,
+        "travel": 2.3,
+        "distance": 49,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "1/18/2018",
+      "data": {
+        "tech": 5,
+        "travel": 1.8,
+        "distance": 15,
+        "expenses": 43.63
+      }
+    },
+    {
+      "date": "1/19/2018",
+      "data": {
+        "tech": 5.9,
+        "travel": 2.5,
+        "distance": 30,
+        "expenses": 20.37
+      }
+    },
+    {
+      "date": "1/22/2018",
+      "data": {
+        "tech": 3.6,
+        "travel": 2.9,
+        "distance": 56,
+        "expenses": 11.13
+      }
+    },
+    {
+      "date": "1/23/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 1.8,
+        "distance": 18,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "1/24/2018",
+      "data": {
+        "tech": 5.3,
+        "travel": 3.5,
+        "distance": 51,
+        "expenses": 22.5
+      }
+    },
+    {
+      "date": "1/25/2018",
+      "data": {
+        "tech": 4.6,
+        "travel": 3.3,
+        "distance": 35,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "1/26/2018",
+      "data": {
+        "tech": 4,
+        "travel": 2,
+        "distance": 18,
+        "expenses": 25
+      }
+    },
+    {
+      "date": "1/29/2018",
+      "data": {
+        "tech": 3.6,
+        "travel": 2.2,
+        "distance": 30,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "1/30/2018",
+      "data": {
+        "tech": 4.2,
+        "travel": 1.6,
+        "distance": 16,
+        "expenses": 33.17
+      }
+    },
+    {
+      "date": "1/31/2018",
+      "data": {
+        "tech": 3.4,
+        "travel": 3.1,
+        "distance": 46,
+        "expenses": 11.35
+      }
+    },
+    {
+      "date": "2/1/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 3.8,
+        "distance": 68,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "2/2/2018",
+      "data": {
+        "tech": 0.9,
+        "travel": 0.8,
+        "distance": 15,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "2/5/2018",
+      "data": {
+        "tech": 3.3,
+        "travel": 1.6,
+        "distance": 30,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "2/6/2018",
+      "data": {
+        "tech": 5.2,
+        "travel": 3.5,
+        "distance": 52,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "2/7/2018",
+      "data": {
+        "tech": 3.7,
+        "travel": 2.9,
+        "distance": 46,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "2/8/2018",
+      "data": {
+        "tech": 5.2,
+        "travel": 2.5,
+        "distance": 24,
+        "expenses": 28.39
+      }
+    },
+    {
+      "date": "2/9/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 3.6,
+        "distance": 74,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "2/12/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.4,
+        "distance": 39,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "2/13/2018",
+      "data": {
+        "tech": 4.7,
+        "travel": 2.9,
+        "distance": 45,
+        "expenses": 30.07
+      }
+    },
+    {
+      "date": "2/14/2018",
+      "data": {
+        "tech": 4.6,
+        "travel": 3.4,
+        "distance": 35,
+        "expenses": 21.99
+      }
+    },
+    {
+      "date": "2/15/2018",
+      "data": {
+        "tech": 4.4,
+        "travel": 2.9,
+        "distance": 45,
+        "expenses": 2
+      }
+    },
+    {
+      "date": "2/16/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 3.5,
+        "distance": 42,
+        "expenses": 7
+      }
+    },
+    {
+      "date": "2/19/2018",
+      "data": {
+        "tech": 0.5,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "2/20/2018",
+      "data": {
+        "tech": 3.4,
+        "travel": 2.9,
+        "distance": 43,
+        "expenses": 11
+      }
+    },
+    {
+      "date": "2/21/2018",
+      "data": {
+        "tech": 4.1,
+        "travel": 2.4,
+        "distance": 25,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "2/22/2018",
+      "data": {
+        "tech": 6,
+        "travel": 3,
+        "distance": 30,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "2/23/2018",
+      "data": {
+        "tech": 5,
+        "travel": 3.1,
+        "distance": 51,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "2/26/2018",
+      "data": {
+        "tech": 4,
+        "travel": 2.9,
+        "distance": 43,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "2/27/2018",
+      "data": {
+        "tech": 3.5,
+        "travel": 2.2,
+        "distance": 30,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "2/28/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 2.1,
+        "distance": 32,
+        "expenses": 27
+      }
+    },
+    {
+      "date": "3/1/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 4.9,
+        "distance": 77,
+        "expenses": 10.5
+      }
+    },
+    {
+      "date": "3/2/2018",
+      "data": {
+        "tech": 5,
+        "travel": 2.3,
+        "distance": 13,
+        "expenses": 38
+      }
+    },
+    {
+      "date": "3/5/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 2.3,
+        "distance": 25,
+        "expenses": 23.92
+      }
+    },
+    {
+      "date": "3/6/2018",
+      "data": {
+        "tech": 4.4,
+        "travel": 3.1,
+        "distance": 43,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "3/7/2018",
+      "data": {
+        "tech": 3.4,
+        "travel": 3,
+        "distance": 46,
+        "expenses": 4.25
+      }
+    },
+    {
+      "date": "3/8/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 3.4,
+        "distance": 45,
+        "expenses": 13
+      }
+    },
+    {
+      "date": "3/9/2018",
+      "data": {
+        "tech": 6.3,
+        "travel": 3.2,
+        "distance": 32,
+        "expenses": 33.4
+      }
+    },
+    {
+      "date": "3/12/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 3.3,
+        "distance": 45,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "3/13/2018",
+      "data": {
+        "tech": 3.9,
+        "travel": 2.6,
+        "distance": 67,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "3/14/2018",
+      "data": {
+        "tech": 3.7,
+        "travel": 2.3,
+        "distance": 37,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "3/15/2018",
+      "data": {
+        "tech": 1.3,
+        "travel": 0.5,
+        "distance": 6,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "3/16/2018",
+      "data": {
+        "tech": 5.2,
+        "travel": 3.1,
+        "distance": 49,
+        "expenses": 29
+      }
+    },
+    {
+      "date": "3/19/2018",
+      "data": {
+        "tech": 2.7,
+        "travel": 3.1,
+        "distance": 64,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "3/20/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 3.1,
+        "distance": 43,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "3/21/2018",
+      "data": {
+        "tech": 4.9,
+        "travel": 1.9,
+        "distance": 19,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "3/22/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 3.3,
+        "distance": 66,
+        "expenses": 14.71
+      }
+    },
+    {
+      "date": "3/23/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 5.1,
+        "distance": 138,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "3/26/2018",
+      "data": {
+        "tech": 4.4,
+        "travel": 2.6,
+        "distance": 39,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "3/27/2018",
+      "data": {
+        "tech": 4.1,
+        "travel": 2.9,
+        "distance": 55,
+        "expenses": 17.71
+      }
+    },
+    {
+      "date": "3/28/2018",
+      "data": {
+        "tech": 6.4,
+        "travel": 3.6,
+        "distance": 40,
+        "expenses": 39.71
+      }
+    },
+    {
+      "date": "3/29/2018",
+      "data": {
+        "tech": 2.6,
+        "travel": 1.8,
+        "distance": 31,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "3/30/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 3.5,
+        "distance": 53,
+        "expenses": 24
+      }
+    },
+    {
+      "date": "4/2/2018",
+      "data": {
+        "tech": 2.8,
+        "travel": 2.8,
+        "distance": 49,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/3/2018",
+      "data": {
+        "tech": 5.3,
+        "travel": 4.1,
+        "distance": 58,
+        "expenses": 36
+      }
+    },
+    {
+      "date": "4/4/2018",
+      "data": {
+        "tech": 7.3,
+        "travel": 3.4,
+        "distance": 30,
+        "expenses": 35.96
+      }
+    },
+    {
+      "date": "4/5/2018",
+      "data": {
+        "tech": 5.1,
+        "travel": 5,
+        "distance": 34,
+        "expenses": 46
+      }
+    },
+    {
+      "date": "4/6/2018",
+      "data": {
+        "tech": 3.9,
+        "travel": 4.1,
+        "distance": 39,
+        "expenses": 49.5
+      }
+    },
+    {
+      "date": "4/9/2018",
+      "data": {
+        "tech": 5.9,
+        "travel": 2.5,
+        "distance": 56,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "4/10/2018",
+      "data": {
+        "tech": 2.5,
+        "travel": 4.4,
+        "distance": 52,
+        "expenses": 30
+      }
+    },
+    {
+      "date": "4/11/2018",
+      "data": {
+        "tech": 3.3,
+        "travel": 3.3,
+        "distance": 16,
+        "expenses": 52.71
+      }
+    },
+    {
+      "date": "4/12/2018",
+      "data": {
+        "tech": 6.2,
+        "travel": 1.9,
+        "distance": 26,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/13/2018",
+      "data": {
+        "tech": 4.6,
+        "travel": 3.5,
+        "distance": 43,
+        "expenses": 7.95
+      }
+    },
+    {
+      "date": "4/16/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 3.5,
+        "distance": 53,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "4/17/2018",
+      "data": {
+        "tech": 3.9,
+        "travel": 2.5,
+        "distance": 28,
+        "expenses": 27
+      }
+    },
+    {
+      "date": "4/18/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 2.5,
+        "distance": 25,
+        "expenses": 14.72
+      }
+    },
+    {
+      "date": "4/19/2018",
+      "data": {
+        "tech": 1.3,
+        "travel": 1.8,
+        "distance": 26,
+        "expenses": 11
+      }
+    },
+    {
+      "date": "4/20/2018",
+      "data": {
+        "tech": 1.1,
+        "travel": 0.9,
+        "distance": 16,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/23/2018",
+      "data": {
+        "tech": 2.6,
+        "travel": 1.7,
+        "distance": 21,
+        "expenses": 13
+      }
+    },
+    {
+      "date": "4/24/2018",
+      "data": {
+        "tech": 7.5,
+        "travel": 1.5,
+        "distance": 14,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "4/25/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/26/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "4/27/2018",
+      "data": {
+        "tech": 8,
+        "travel": 1,
+        "distance": 14,
+        "expenses": 25.9
+      }
+    },
+    {
+      "date": "4/30/2018",
+      "data": {
+        "tech": 8,
+        "travel": 1,
+        "distance": 14,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "5/1/2018",
+      "data": {
+        "tech": 7.3,
+        "travel": 0.7,
+        "distance": 14,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "5/2/2018",
+      "data": {
+        "tech": 5.9,
+        "travel": 2.9,
+        "distance": 45,
+        "expenses": 4
+      }
+    },
+    {
+      "date": "5/3/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 3.5,
+        "distance": 46,
+        "expenses": 17
+      }
+    },
+    {
+      "date": "5/4/2018",
+      "data": {
+        "tech": 5.3,
+        "travel": 3.2,
+        "distance": 42,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "5/7/2018",
+      "data": {
+        "tech": 5.5,
+        "travel": 3.1,
+        "distance": 34,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "5/8/2018",
+      "data": {
+        "tech": 6.8,
+        "travel": 3,
+        "distance": 51,
+        "expenses": 7.5
+      }
+    },
+    {
+      "date": "5/9/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 3.9,
+        "distance": 57,
+        "expenses": 4
+      }
+    },
+    {
+      "date": "5/10/2018",
+      "data": {
+        "tech": 5.3,
+        "travel": 2.8,
+        "distance": 27,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "5/11/2018",
+      "data": {
+        "tech": 4.4,
+        "travel": 2.8,
+        "distance": 32,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "5/14/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 2.4,
+        "distance": 14,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "5/15/2018",
+      "data": {
+        "tech": 5.1,
+        "travel": 2.2,
+        "distance": 44,
+        "expenses": 24.71
+      }
+    },
+    {
+      "date": "5/16/2018",
+      "data": {
+        "tech": 4.6,
+        "travel": 3.5,
+        "distance": 48,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "5/17/2018",
+      "data": {
+        "tech": 6.4,
+        "travel": 3.6,
+        "distance": 47,
+        "expenses": 18
+      }
+    },
+    {
+      "date": "5/18/2018",
+      "data": {
+        "tech": 4.1,
+        "travel": 2.1,
+        "distance": 17,
+        "expenses": 6.16
+      }
+    },
+    {
+      "date": "5/21/2018",
+      "data": {
+        "tech": 1.8,
+        "travel": 1.4,
+        "distance": 23,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "5/22/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 3.9,
+        "distance": 55,
+        "expenses": 23
+      }
+    },
+    {
+      "date": "5/23/2018",
+      "data": {
+        "tech": 4.1,
+        "travel": 1.3,
+        "distance": 16,
+        "expenses": 9
+      }
+    },
+    {
+      "date": "5/24/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 4.2,
+        "distance": 46,
+        "expenses": 14.71
+      }
+    },
+    {
+      "date": "5/25/2018",
+      "data": {
+        "tech": 4,
+        "travel": 2,
+        "distance": 20,
+        "expenses": 9.5
+      }
+    },
+    {
+      "date": "5/28/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "5/29/2018",
+      "data": {
+        "tech": 3.9,
+        "travel": 2.7,
+        "distance": 26,
+        "expenses": 18
+      }
+    },
+    {
+      "date": "5/30/2018",
+      "data": {
+        "tech": 4.7,
+        "travel": 2.8,
+        "distance": 33,
+        "expenses": 24.25
+      }
+    },
+    {
+      "date": "5/31/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 3.3,
+        "distance": 53,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "6/1/2018",
+      "data": {
+        "tech": 6.4,
+        "travel": 2.7,
+        "distance": 22,
+        "expenses": 47
+      }
+    },
+    {
+      "date": "6/4/2018",
+      "data": {
+        "tech": 6.1,
+        "travel": 3.4,
+        "distance": 40,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "6/5/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 2.3,
+        "distance": 21,
+        "expenses": 24
+      }
+    },
+    {
+      "date": "6/6/2018",
+      "data": {
+        "tech": 4,
+        "travel": 3.5,
+        "distance": 60,
+        "expenses": 27.63
+      }
+    },
+    {
+      "date": "6/7/2018",
+      "data": {
+        "tech": 3.6,
+        "travel": 3.4,
+        "distance": 52,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "6/8/2018",
+      "data": {
+        "tech": 2.3,
+        "travel": 2.5,
+        "distance": 34,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "6/11/2018",
+      "data": {
+        "tech": 2.6,
+        "travel": 2,
+        "distance": 32,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "6/12/2018",
+      "data": {
+        "tech": 2.1,
+        "travel": 1.8,
+        "distance": 27,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/13/2018",
+      "data": {
+        "tech": 5.3,
+        "travel": 2.6,
+        "distance": 24,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "6/14/2018",
+      "data": {
+        "tech": 3.2,
+        "travel": 1.2,
+        "distance": 15,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "6/15/2018",
+      "data": {
+        "tech": 7.1,
+        "travel": 1.2,
+        "distance": 14,
+        "expenses": 47.81
+      }
+    },
+    {
+      "date": "6/18/2018",
+      "data": {
+        "tech": 5.3,
+        "travel": 1.9,
+        "distance": 28,
+        "expenses": 22.49
+      }
+    },
+    {
+      "date": "6/19/2018",
+      "data": {
+        "tech": 5.7,
+        "travel": 2.9,
+        "distance": 48,
+        "expenses": 29.6
+      }
+    },
+    {
+      "date": "6/20/2018",
+      "data": {
+        "tech": 2.3,
+        "travel": 1.7,
+        "distance": 16,
+        "expenses": 17.71
+      }
+    },
+    {
+      "date": "6/21/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/22/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "6/25/2018",
+      "data": {
+        "tech": 4,
+        "travel": 2.3,
+        "distance": 18,
+        "expenses": 26
+      }
+    },
+    {
+      "date": "6/26/2018",
+      "data": {
+        "tech": 3.3,
+        "travel": 2.9,
+        "distance": 37,
+        "expenses": 18
+      }
+    },
+    {
+      "date": "6/27/2018",
+      "data": {
+        "tech": 3.5,
+        "travel": 1.2,
+        "distance": 12,
+        "expenses": 21.44
+      }
+    },
+    {
+      "date": "6/28/2018",
+      "data": {
+        "tech": 5.7,
+        "travel": 3.2,
+        "distance": 44,
+        "expenses": 51.81
+      }
+    },
+    {
+      "date": "6/29/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 3,
+        "distance": 41,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "7/2/2018",
+      "data": {
+        "tech": 5.8,
+        "travel": 3.6,
+        "distance": 41,
+        "expenses": 7.48
+      }
+    },
+    {
+      "date": "7/3/2018",
+      "data": {
+        "tech": 5.3,
+        "travel": 2.9,
+        "distance": 41,
+        "expenses": 21.5
+      }
+    },
+    {
+      "date": "7/4/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/5/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 2.8,
+        "distance": 33,
+        "expenses": 26
+      }
+    },
+    {
+      "date": "7/6/2018",
+      "data": {
+        "tech": 6.8,
+        "travel": 2.6,
+        "distance": 33,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "7/9/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 2.7,
+        "distance": 25,
+        "expenses": 49
+      }
+    },
+    {
+      "date": "7/10/2018",
+      "data": {
+        "tech": 6,
+        "travel": 3.5,
+        "distance": 59,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "7/11/2018",
+      "data": {
+        "tech": 2.9,
+        "travel": 2,
+        "distance": 28,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "7/12/2018",
+      "data": {
+        "tech": 5.8,
+        "travel": 0.9,
+        "distance": 16,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "7/13/2018",
+      "data": {
+        "tech": 3.6,
+        "travel": 2.5,
+        "distance": 45,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "7/16/2018",
+      "data": {
+        "tech": 1.8,
+        "travel": 0.8,
+        "distance": 8.5,
+        "expenses": 22.71
+      }
+    },
+    {
+      "date": "7/17/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 2,
+        "distance": 15.7,
+        "expenses": 31
+      }
+    },
+    {
+      "date": "7/18/2018",
+      "data": {
+        "tech": 3.2,
+        "travel": 2.1,
+        "distance": 27.7,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "7/19/2018",
+      "data": {
+        "tech": 5.7,
+        "travel": 2.6,
+        "distance": 41.7,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "7/20/2018",
+      "data": {
+        "tech": 2.8,
+        "travel": 3.3,
+        "distance": 59.6,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "7/23/2018",
+      "data": {
+        "tech": 3.6,
+        "travel": 2.7,
+        "distance": 48.9,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "7/24/2018",
+      "data": {
+        "tech": 5.2,
+        "travel": 1.8,
+        "distance": 27.5,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "7/25/2018",
+      "data": {
+        "tech": 3.9,
+        "travel": 3,
+        "distance": 55.8,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "7/26/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 3.1,
+        "distance": 20,
+        "expenses": 29
+      }
+    },
+    {
+      "date": "7/27/2018",
+      "data": {
+        "tech": 3,
+        "travel": 3.5,
+        "distance": 56,
+        "expenses": 11
+      }
+    },
+    {
+      "date": "7/30/2018",
+      "data": {
+        "tech": 4.7,
+        "travel": 2.7,
+        "distance": 39.1,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "7/31/2018",
+      "data": {
+        "tech": 5,
+        "travel": 3.8,
+        "distance": 57.5,
+        "expenses": 11
+      }
+    },
+    {
+      "date": "8/1/2018",
+      "data": {
+        "tech": 5.3,
+        "travel": 4.4,
+        "distance": 61,
+        "expenses": 16
+      }
+    },
+    {
+      "date": "8/2/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.1,
+        "distance": 19.3,
+        "expenses": 15.5
+      }
+    },
+    {
+      "date": "8/3/2018",
+      "data": {
+        "tech": 3.3,
+        "travel": 2.7,
+        "distance": 29.9,
+        "expenses": 7
+      }
+    },
+    {
+      "date": "8/6/2018",
+      "data": {
+        "tech": 2.8,
+        "travel": 2.2,
+        "distance": 46.8,
+        "expenses": 5
+      }
+    },
+    {
+      "date": "8/7/2018",
+      "data": {
+        "tech": 5.7,
+        "travel": 2.4,
+        "distance": 19.9,
+        "expenses": 14.81
+      }
+    },
+    {
+      "date": "8/8/2018",
+      "data": {
+        "tech": 5.4,
+        "travel": 2.1,
+        "distance": 17,
+        "expenses": 19.5
+      }
+    },
+    {
+      "date": "8/9/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 1.8,
+        "distance": 11.5,
+        "expenses": 34.5
+      }
+    },
+    {
+      "date": "8/10/2018",
+      "data": {
+        "tech": 3.4,
+        "travel": 2.2,
+        "distance": 28.5,
+        "expenses": 26.81
+      }
+    },
+    {
+      "date": "8/13/2018",
+      "data": {
+        "tech": 3.4,
+        "travel": 2.2,
+        "distance": 29.3,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "8/14/2018",
+      "data": {
+        "tech": 4,
+        "travel": 3,
+        "distance": 34.1,
+        "expenses": 8
+      }
+    },
+    {
+      "date": "8/15/2018",
+      "data": {
+        "tech": 3.1,
+        "travel": 2.7,
+        "distance": 38.3,
+        "expenses": 13
+      }
+    },
+    {
+      "date": "8/16/2018",
+      "data": {
+        "tech": 3.7,
+        "travel": 3,
+        "distance": 49.2,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/17/2018",
+      "data": {
+        "tech": 2.8,
+        "travel": 2.2,
+        "distance": 25.7,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "8/20/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/21/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/22/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/23/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/24/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "8/27/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 2.3,
+        "distance": 25.9,
+        "expenses": 45
+      }
+    },
+    {
+      "date": "8/28/2018",
+      "data": {
+        "tech": 3.4,
+        "travel": 2,
+        "distance": 20.2,
+        "expenses": 21
+      }
+    },
+    {
+      "date": "8/29/2018",
+      "data": {
+        "tech": 3.7,
+        "travel": 1.6,
+        "distance": 16.6,
+        "expenses": 20.13
+      }
+    },
+    {
+      "date": "8/30/2018",
+      "data": {
+        "tech": 2.1,
+        "travel": 4.9,
+        "distance": 25.8,
+        "expenses": 45.75
+      }
+    },
+    {
+      "date": "8/31/2018",
+      "data": {
+        "tech": 3.3,
+        "travel": 3.7,
+        "distance": 38.9,
+        "expenses": 4
+      }
+    },
+    {
+      "date": "9/3/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/4/2018",
+      "data": {
+        "tech": 4.4,
+        "travel": 2.4,
+        "distance": 19.5,
+        "expenses": 44
+      }
+    },
+    {
+      "date": "9/5/2018",
+      "data": {
+        "tech": 4.1,
+        "travel": 3.1,
+        "distance": 31.8,
+        "expenses": 35
+      }
+    },
+    {
+      "date": "9/6/2018",
+      "data": {
+        "tech": 3.6,
+        "travel": 3.3,
+        "distance": 44.3,
+        "expenses": 15
+      }
+    },
+    {
+      "date": "9/7/2018",
+      "data": {
+        "tech": 3.7,
+        "travel": 2.1,
+        "distance": 23.5,
+        "expenses": 4.5
+      }
+    },
+    {
+      "date": "9/10/2018",
+      "data": {
+        "tech": 1.8,
+        "travel": 1.8,
+        "distance": 39.7,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/11/2018",
+      "data": {
+        "tech": 5.7,
+        "travel": 2.1,
+        "distance": 31.1,
+        "expenses": 11
+      }
+    },
+    {
+      "date": "9/12/2018",
+      "data": {
+        "tech": 4.4,
+        "travel": 3.3,
+        "distance": 57.2,
+        "expenses": 12
+      }
+    },
+    {
+      "date": "9/13/2018",
+      "data": {
+        "tech": 4.1,
+        "travel": 2.4,
+        "distance": 33.6,
+        "expenses": 29.49
+      }
+    },
+    {
+      "date": "9/14/2018",
+      "data": {
+        "tech": 3.3,
+        "travel": 2.7,
+        "distance": 45.2,
+        "expenses": 9.81
+      }
+    },
+    {
+      "date": "9/17/2018",
+      "data": {
+        "tech": 6.9,
+        "travel": 2.2,
+        "distance": 56.6,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/18/2018",
+      "data": {
+        "tech": 2.4,
+        "travel": 1.5,
+        "distance": 20.9,
+        "expenses": 14.71
+      }
+    },
+    {
+      "date": "9/19/2018",
+      "data": {
+        "tech": 2.8,
+        "travel": 1.9,
+        "distance": 19.5,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "9/20/2018",
+      "data": {
+        "tech": 2.7,
+        "travel": 1.8,
+        "distance": 20,
+        "expenses": 6
+      }
+    },
+    {
+      "date": "9/21/2018",
+      "data": {
+        "tech": 3.2,
+        "travel": 1.8,
+        "distance": 10.6,
+        "expenses": 32
+      }
+    },
+    {
+      "date": "9/24/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 1.7,
+        "distance": 10,
+        "expenses": 58.71
+      }
+    },
+    {
+      "date": "9/25/2018",
+      "data": {
+        "tech": 4.4,
+        "travel": 2.8,
+        "distance": 54.3,
+        "expenses": 25.71
+      }
+    },
+    {
+      "date": "9/26/2018",
+      "data": {
+        "tech": 2.3,
+        "travel": 2.3,
+        "distance": 47.4,
+        "expenses": 13
+      }
+    },
+    {
+      "date": "9/27/2018",
+      "data": {
+        "tech": 4.6,
+        "travel": 4,
+        "distance": 110.1,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "9/28/2018",
+      "data": {
+        "tech": 2.4,
+        "travel": 2.9,
+        "distance": 82.9,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/1/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 1.1,
+        "distance": 8.5,
+        "expenses": 26
+      }
+    },
+    {
+      "date": "10/2/2018",
+      "data": {
+        "tech": 3.6,
+        "travel": 3.1,
+        "distance": 56.2,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/3/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 2.7,
+        "distance": 20.7,
+        "expenses": 31
+      }
+    },
+    {
+      "date": "10/4/2018",
+      "data": {
+        "tech": 5,
+        "travel": 2.7,
+        "distance": 53.5,
+        "expenses": 22.8
+      }
+    },
+    {
+      "date": "10/5/2018",
+      "data": {
+        "tech": 5.9,
+        "travel": 4,
+        "distance": 41,
+        "expenses": 28.2
+      }
+    },
+    {
+      "date": "10/8/2018",
+      "data": {
+        "tech": 3.4,
+        "travel": 3.2,
+        "distance": 38.1,
+        "expenses": 2
+      }
+    },
+    {
+      "date": "10/9/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.8,
+        "distance": 41.8,
+        "expenses": 19.81
+      }
+    },
+    {
+      "date": "10/10/2018",
+      "data": {
+        "tech": 4.1,
+        "travel": 3.4,
+        "distance": 52.9,
+        "expenses": 32.4
+      }
+    },
+    {
+      "date": "10/11/2018",
+      "data": {
+        "tech": 3.2,
+        "travel": 2.1,
+        "distance": 21.8,
+        "expenses": 28
+      }
+    },
+    {
+      "date": "10/12/2018",
+      "data": {
+        "tech": 5,
+        "travel": 2.9,
+        "distance": 34.6,
+        "expenses": 9
+      }
+    },
+    {
+      "date": "10/15/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/16/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/17/2018",
+      "data": {
+        "tech": 3.3,
+        "travel": 1.3,
+        "distance": 7.4,
+        "expenses": 25
+      }
+    },
+    {
+      "date": "10/18/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 2.2,
+        "distance": 40.2,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/19/2018",
+      "data": {
+        "tech": 2.8,
+        "travel": 1.7,
+        "distance": 12.1,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "10/22/2018",
+      "data": {
+        "tech": 3.3,
+        "travel": 2.6,
+        "distance": 43.8,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/23/2018",
+      "data": {
+        "tech": 4.8,
+        "travel": 3.3,
+        "distance": 34.1,
+        "expenses": 28.16
+      }
+    },
+    {
+      "date": "10/24/2018",
+      "data": {
+        "tech": 5.9,
+        "travel": 2.1,
+        "distance": 35.2,
+        "expenses": 36
+      }
+    },
+    {
+      "date": "10/25/2018",
+      "data": {
+        "tech": 4.6,
+        "travel": 2.5,
+        "distance": 41.3,
+        "expenses": 3
+      }
+    },
+    {
+      "date": "10/26/2018",
+      "data": {
+        "tech": 3,
+        "travel": 1.9,
+        "distance": 30.5,
+        "expenses": 9.5
+      }
+    },
+    {
+      "date": "10/29/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "10/30/2018",
+      "data": {
+        "tech": 3.4,
+        "travel": 2.8,
+        "distance": 48.8,
+        "expenses": 21.7
+      }
+    },
+    {
+      "date": "10/31/2018",
+      "data": {
+        "tech": 4.6,
+        "travel": 3.2,
+        "distance": 59.1,
+        "expenses": 27.8
+      }
+    },
+    {
+      "date": "11/1/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 3,
+        "distance": 29.8,
+        "expenses": 28.5
+      }
+    },
+    {
+      "date": "11/2/2018",
+      "data": {
+        "tech": 3.2,
+        "travel": 4,
+        "distance": 79.9,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "11/5/2018",
+      "data": {
+        "tech": 2.6,
+        "travel": 2.2,
+        "distance": 58.3,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/6/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.3,
+        "distance": 44.8,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "11/7/2018",
+      "data": {
+        "tech": 3.6,
+        "travel": 3.3,
+        "distance": 72.9,
+        "expenses": 11.06
+      }
+    },
+    {
+      "date": "11/8/2018",
+      "data": {
+        "tech": 5.5,
+        "travel": 3.5,
+        "distance": 73.8,
+        "expenses": 11.36
+      }
+    },
+    {
+      "date": "11/9/2018",
+      "data": {
+        "tech": 4.9,
+        "travel": 3.5,
+        "distance": 64.3,
+        "expenses": 10
+      }
+    },
+    {
+      "date": "11/12/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.9,
+        "distance": 63.1,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/13/2018",
+      "data": {
+        "tech": 3.6,
+        "travel": 2.6,
+        "distance": 50.9,
+        "expenses": 17
+      }
+    },
+    {
+      "date": "11/14/2018",
+      "data": {
+        "tech": 4.1,
+        "travel": 4.7,
+        "distance": 28.3,
+        "expenses": 46.7
+      }
+    },
+    {
+      "date": "11/15/2018",
+      "data": {
+        "tech": 1.8,
+        "travel": 1.9,
+        "distance": 51.3,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/16/2018",
+      "data": {
+        "tech": 4.5,
+        "travel": 3,
+        "distance": 40.1,
+        "expenses": 29.13
+      }
+    },
+    {
+      "date": "11/19/2018",
+      "data": {
+        "tech": 3.1,
+        "travel": 2.8,
+        "distance": 61.4,
+        "expenses": 11
+      }
+    },
+    {
+      "date": "11/20/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/21/2018",
+      "data": {
+        "tech": 3.2,
+        "travel": 2.3,
+        "distance": 22.6,
+        "expenses": 14.5
+      }
+    },
+    {
+      "date": "11/22/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/23/2018",
+      "data": {
+        "tech": 0.7,
+        "travel": 1.3,
+        "distance": 35.3,
+        "expenses": 20
+      }
+    },
+    {
+      "date": "11/26/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 2,
+        "distance": 17.5,
+        "expenses": 43
+      }
+    },
+    {
+      "date": "11/27/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "11/28/2018",
+      "data": {
+        "tech": 4.3,
+        "travel": 2.5,
+        "distance": 37.1,
+        "expenses": 14
+      }
+    },
+    {
+      "date": "11/29/2018",
+      "data": {
+        "tech": 4.4,
+        "travel": 2.3,
+        "distance": 37.7,
+        "expenses": 28.81
+      }
+    },
+    {
+      "date": "11/30/2018",
+      "data": {
+        "tech": 3.8,
+        "travel": 2.2,
+        "distance": 40,
+        "expenses": 18
+      }
+    },
+    {
+      "date": "12/3/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/4/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/5/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/6/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/7/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/10/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/11/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/12/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/13/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    },
+    {
+      "date": "12/14/2018",
+      "data": {
+        "tech": 0,
+        "travel": 0,
+        "distance": 0,
+        "expenses": 0
+      }
+    }
+  ]
+}
